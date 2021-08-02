@@ -1,0 +1,26 @@
+{
+    "name": "Telegram Api Bot For Heroku",
+    "description": "simple base for tg bot",
+    "keywords": [
+        "XiaLop",
+        "Telegram Api Bot For Heruku",
+        "Telegram base for heroku",
+        "Telegram Bot",
+        "Telegram base for heroku"
+    ],
+    "logo": "https://telegra.ph/file/101c873bd63b9edd444b2.jpg",
+    "repository": "https://github.com/xialop/TelegramApiBase4Heroku",
+    "success_url": "/",
+    "env": {
+        "Telegram_Api_key": {
+            "description": "your Telegram Bot Token, from @BotFather"
+        },
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "image": "heroku/php"
+    }
+}
