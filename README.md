@@ -10,7 +10,5 @@
 
 <h3>Contact Me</h3>
 
-```sh
-Mail : xialop@outlook.com
-Telegram : @LampStack
-
+<a href="https://t.me/LampStack">Telegram</a><br>
+<a href="mailto:xialop@outlook.com">Email</a>
